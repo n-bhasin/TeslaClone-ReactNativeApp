@@ -4,13 +4,13 @@
 
 A simple clone of Tesla mobile app which shows all car models with small tagline
 
-# Images
+# Demo
 
-[teslaclone.mov](./docs/teslaclone.mov)
-<video width="320" height="240" controls>
-
-  <source src="/docs/teslaclonemp4" type="video/mov">
-  Your browser does not support the video tag.
-</video>
+https://youtu.be/R98Gty4PvrQ
 
 # Instructions to run
+
+- git clone https://github.com/n-bhasin/TeslaClone-ReactNativeApp.git
+- cd TeslaClone-ReactNativeApp/
+- yarn install
+- yarn run start
